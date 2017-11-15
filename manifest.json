@@ -1,7 +1,7 @@
 {
   "name": "Innocuous Chrome Extension",
   "version": "0.4",
-  "description": "This is an innocuous chrome extension.",
+  "description": "This is an innocuous chrome extension for circumventing paywalls.",
   "permissions": ["webRequest", "webRequestBlocking",
                   "http://ftalphaville.ft.com/*",
                   "http://www.ft.com/*",
